@@ -1,6 +1,6 @@
-site_name: Radar View
+site_name: PilotageCap
 site_description: Documentation et outils
-copyright: '© 2026 Radar View - Tous droits réservés'
+copyright: '© 2026 PilotageCap - Tous droits réservés'
 
 theme:
   name: material
