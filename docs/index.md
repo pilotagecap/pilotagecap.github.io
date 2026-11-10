@@ -1,3 +1,3 @@
 # Bienvenue sur Pilotage Cap
 
-Tableau de bord des tendances & calculateurs.
+Tableau de bord des tendances && calculateurs.
