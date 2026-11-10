@@ -27,11 +27,8 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=3
-FILE_NAME_0=204;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fpierre%2Fprojets%2Fpilotagecap%2Fnotes.md;0;4
-FILE_NAME_1=0;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fpierre%2Fprojets%2Fpilotagecap%2Ftodo.md;0;4
-FILE_NAME_2=328;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fpierre%2Fprojets%2Fmaxcode%2Ftutos%2F01_compte.md;0;4
-FILE_NAME_3=62;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fpierre%2Fprojets%2Fpilotagecap%2Fdocs%2Findex.md;0;4
+current_page=0
+FILE_NAME_0=680;YAML;0;EUTF-8;1;1;1;%2Fhome%2Fpierre%2Fprojets%2Fpilotagecap%2F.github%2Fworkflows%2Fdeploy.yml;0;4
 
 [VTE]
 last_dir=/home/pierre
