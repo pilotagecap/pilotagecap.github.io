@@ -11,13 +11,8 @@ Ce qui est actionnable.
 Et regarde comme la promesse devient claire :
 
 ❌ Newsletter finance
-
 ✅ Pilotage Mensuel
-
 ❌ Actualités boursières
-
 ✅ Garder le cap
-
 ❌ Informations
-
 ✅ Décisions
