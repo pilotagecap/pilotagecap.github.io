@@ -1,7 +1,5 @@
 Le Pilotage Mensuel
-
 10 €/mois
-
 Chaque mois :
 
 Ce qui compte vraiment.
