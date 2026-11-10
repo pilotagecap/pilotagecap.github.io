@@ -1,3 +1,3 @@
-# Bienvenue sur Radar View
+# Bienvenue sur Pilotage Cap
 
-Tableau de bord des tendances et calculateurs.
+Tableau de bord des tendances & calculateurs.
