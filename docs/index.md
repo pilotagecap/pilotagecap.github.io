@@ -1,26 +1,32 @@
 ---
-title: Pilotage Cap — Méthode d'investissement durable centrée sur le S&P 500
-description: Une approche claire, sobre et durable de l'investissement passif via un ETF S&P 500, sans bruit de marché ni prise de tête quotidienne.
+title: Pilotage Cap — Investir simplement pour durer
+description: Une approche passive et sobre du patrimoine sur le temps long : bâtir et piloter ensemble avec la méthode PCap, le S&P 500, les semi-conducteurs, Berkshire Hathaway et l'or.
 ---
 
-# Pilotage Cap : l'essentiel d'une méthode durable sur le S&P 500
+# Pilotage Cap
 
-Investir durablement ne demande ni pronostics, ni tableaux complexes, ni surveillance quotidienne des marchés. **Pilotage Cap** repose sur une méthode simple, lisible et reproductible : s'exposer à la croissance longue des grandes entreprises américaines via un **ETF S&P 500**, avec une discipline régulière et des frais maîtrisés.
+La plupart des méthodes d'investissement demandent trop d'énergie pour ce qu'elles apportent : trop d'analyses, trop de décisions, trop d'émotions. **Pilotage Cap** s'appuie sur la simplicité qui paie : poser un cadre clair, sobre et éprouvé, pensé pour bâtir un patrimoine sur plusieurs décennies et se transmettre sans complication inutile.
 
-## Le principe en trois points
+C'est aussi un espace pour avancer ensemble. Ici, on retrouve celles et ceux qui partagent cette même démarche pour construire pas à pas et piloter ce patrimoine dans la durée.
 
-* **Un cap lisible, pas du bruit :** plutôt que de multiplier les paris ou de réagir à chaque actualité financière, la méthode garde une ligne directrice stable dans le temps.
-* **La force de la régularité :** investir de manière posée et constante réduit le poids des émotions et évite d'attendre le « bon moment » introuvable.
-* **La sobriété des coûts et des outils :** des supports simples, des frais bas et un suivi léger pour garder la maîtrise de ses décisions.
+## Garder le cap sur la durée
 
-## Pourquoi le S&P 500 comme socle
+Construire un patrimoine solide prend du temps — souvent bien plus qu'on ne l'imagine au départ. C'est pour ça que la méthode s'appuie sur l'investissement passif, des frais bas et une régularité tranquille. Plutôt que d'essayer d'anticiper chaque retournement ou de réagir à l'actualité du jour, on mise sur la constance et la patience. Les fluctuations font partie du paysage ; l'important est de ne pas perdre le nord quand le vent tourne.
 
-Le **S&P 500** regroupe environ 500 grandes capitalisations américaines représentatives de secteurs variés. Sans promettre de ligne droite — les phases de baisse font partie normale des marchés — cet indice constitue une base claire pour qui cherche une exposition large et durable plutôt que la sélection de titres isolés.
+## Des briques complémentaires, pas une usine à gaz
 
-## Comment utiliser ce site
+Pour donner corps à cette démarche, la méthode associe quelques supports faciles à comprendre, chacun avec un rôle précis :
 
-* **Comprendre la méthode :** retrouver le fonctionnement concret, les règles du jeu et les limites à garder en tête.
-* **Suivre et appliquer :** consulter les repères et outils mis à disposition pour garder une vision claire.
-* **Aller plus loin avec la lettre :** recevoir des analyses et réponses sur des questions générales autour de la méthode.
+- un **ETF S&P 500** pour s'appuyer sur la dynamique mondiale des 500 plus grandes entreprises américaines ;
+- un **ETF large sur les semi-conducteurs** (comme le SOXX) pour capter la croissance d'un secteur clé ;
+- **Berkshire Hathaway** pour l'ancrage américain et la force d'une très large réserve de liquidités ;
+- **l'or** (via un ETC) comme repère de sécurité et de stabilité dans les périodes plus tendues.
 
-> *Repère important : les contenus partagés ici ont un objectif pédagogique et informatif. Chacun reste responsable de ses choix d'investissement et de leur adéquation à sa situation personnelle.*
+## Piloter ensemble, sans y passer ses journées
+
+Une méthode n'est durable que si elle reste vivable au quotidien. Pas besoin de surveiller les cours en continu ni de se perdre dans des tableaux interminables : quelques points de repère espacés suffisent pour garder la main. C'est tout le sens de ce site et de la lettre à venir : suivre le chemin ensemble, partager des repères clairs et piloter ce patrimoine dans la durée, l'esprit libre.
+
+## Pour aller plus loin ensemble
+
+- **La méthode (PDF)** — Retrouver les fondations de la démarche dans un document clair à garder sous la main.
+- **La lettre de suivi** — Recevoir les repères et points d'étape pour avancer ensemble dans la durée.
